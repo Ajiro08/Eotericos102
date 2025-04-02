@@ -1,0 +1,6 @@
+grade = float(97)
+gpa = float(4.9)
+cgpa = float(5)
+print(f'grade = {grade}')
+print(f'gpa = {gpa}')
+print(f' cgpa = {cgpa}')

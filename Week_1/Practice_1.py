@@ -11,3 +11,4 @@ print("Data type of varaiable fnum is", type(fnum))
 cnum = 3+4j
 print(cnum)
 print("data type of varaiable cnum is", type(cnum))
+print(f"data type of varaiable cnum is {type(cnum)}")
